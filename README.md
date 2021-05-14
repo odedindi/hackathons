@@ -1,4 +1,4 @@
-# hackathons
+# Hack the climate
 LandPro - my first hackathon,hack the climate 2021
 
 this is only the frontend part,
